@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additional>
+  <e1Detector id="d1_0" lane="1_0" pos="0" freq="30" file="icacc.out"/>
+  <e1Detector id="d1_1" lane="1_1" pos="0" freq="30" file="icacc.out"/>
+  <e1Detector id="d2_0" lane="2_0" pos="0" freq="30" file="icacc.out"/>
+  <e1Detector id="d2_1" lane="2_1" pos="0" freq="30" file="icacc.out"/>
+  <e1Detector id="d3_0" lane="3_0" pos="0" freq="30" file="icacc.out"/>
+  <e1Detector id="d3_1" lane="3_1" pos="0" freq="30" file="icacc.out"/>
+  <e1Detector id="d4_0" lane="4_0" pos="0" freq="30" file="icacc.out"/>
+  <e1Detector id="d4_1" lane="4_1" pos="0" freq="30" file="icacc.out"/>
+</additional>

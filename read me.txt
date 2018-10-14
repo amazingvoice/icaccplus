@@ -1,0 +1,6 @@
+runner_v2 is the runnable code. it takes the cars who just entering zone 2 as new_cars
+	and allocate them as old_cars in the next step. and the result of D in this 
+	code is always 0
+runner_v3 is not runnable for now, maybe because the global value d_list. but this code
+	takes all cars in zone 1 as new_cars, and allocated them as old_cars after they
+	enter zone 2.
